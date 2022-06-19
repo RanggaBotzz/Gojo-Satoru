@@ -21,8 +21,8 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['94742711007']
 global.premium = ['94742711007']
-global.ownernomer = '94742711007'
-global.ownername = '👾Chanuka Rasun👾'
+global.ownernomer = '085779150501'
+global.ownername = '👾Rangga Botz👾'
 global.botname = '𝘾𝘿_𝙆𝙤𝙡𝙡𝙖 𝙒𝙖-𝘽𝙤𝙩-𝙈𝘿🌈'
 global.footer = '©𝘾𝘿_𝙆𝙤𝙡𝙡𝙖 𝙒𝙖-𝘽𝙤𝙩-𝙈𝘿🌈'
 global.ig = 'https://github.com/nexusNw'
