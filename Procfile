@@ -1,1 +1,1 @@
-> npm i node-tesseract-ocr
+> worker: node index.js
